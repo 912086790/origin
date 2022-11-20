@@ -1,0 +1,14 @@
+[33mdb1b494[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{0}: merge dev: Fast-forward
+[33m0bb102a[m HEAD@{1}: checkout: moving from dev to main
+[33mdb1b494[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m HEAD@{2}: commit: 删除clear
+[33me66535e[m HEAD@{3}: commit: 添加rademe
+[33m0bb102a[m HEAD@{4}: checkout: moving from main to dev
+[33m0bb102a[m HEAD@{5}: commit: 添加clear
+[33m883aae2[m HEAD@{6}: Branch: renamed refs/heads/main to refs/heads/main
+[33m883aae2[m HEAD@{8}: Branch: renamed refs/heads/master to refs/heads/main
+[33m883aae2[m HEAD@{10}: reset: moving to 883aae2
+[33mcc11874[m HEAD@{11}: reset: moving to cc11874d0cf76911308d801573deb8803ec07d0e
+[33m883aae2[m HEAD@{12}: commit: 添加忽略文件
+[33md9253c0[m HEAD@{13}: commit: 第二次
+[33m87a058a[m HEAD@{14}: commit: 提交消息
+[33mcc11874[m HEAD@{15}: commit (initial): 第一次老板要求
